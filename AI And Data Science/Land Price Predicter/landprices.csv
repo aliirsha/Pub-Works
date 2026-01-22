@@ -1,0 +1,21 @@
+property_id,location_name,taluk,village,latitude,longitude,land_area_cents,land_type,distance_to_school_km,distance_to_airport_km,distance_to_railway_station_km,distance_to_hospital_km,distance_to_medical_college_km,distance_to_bus_stop_km,distance_to_market_km,price
+P001,Kozhikode City,Kozhikode,Nadakkavu,11.2588,75.7804,5,Residential,0.5,28,3,1.2,6,0.3,0.8,450000
+P002,Kozhikode City,Kozhikode,West Hill,11.2795,75.7699,7,Residential,0.8,25,4,1.5,7,0.5,1.0,520000
+P003,Kozhikode City,Kozhikode,Palayam,11.2543,75.7842,4,Commercial,0.3,29,2,1.0,5,0.2,0.5,680000
+P004,Koyilandy,Koyilandy,Payyoli,11.5254,75.6742,10,Residential,1.2,48,6,3.5,15,0.8,1.5,260000
+P005,Koyilandy,Koyilandy,Moodadi,11.5098,75.6611,12,Agricultural,2.5,50,8,4.0,17,1.5,2.5,180000
+P006,Thamarassery,Thamarassery,Chungam,11.4089,75.9256,15,Residential,1.0,42,18,2.0,10,0.7,1.2,220000
+P007,Thamarassery,Thamarassery,Kodenchery,11.4712,75.9834,20,Agricultural,3.0,55,25,5.0,18,2.5,3.5,150000
+P008,Balussery,Balussery,Naduvannur,11.4356,75.8154,18,Agricultural,2.0,40,22,4.2,14,1.8,2.2,130000
+P009,Balussery,Balussery,Koorachundu,11.4923,75.8576,22,Agricultural,3.5,45,30,6.0,20,3.0,4.0,110000
+P010,Koduvally,Koduvally,Omassery,11.3642,75.9123,14,Residential,1.5,38,20,3.0,12,1.0,1.8,240000
+P011,Koduvally,Koduvally,Mukkam,11.3201,75.9802,9,Commercial,0.7,36,19,2.2,11,0.4,0.9,390000
+P012,Perambra,Perambra,Chakkittapara,11.5532,75.7841,25,Agricultural,4.0,52,35,7.0,22,3.8,5.0,90000
+P013,Perambra,Perambra,Kuttiady,11.5603,75.7522,20,Agricultural,3.2,50,32,6.2,20,3.0,4.2,100000
+P014,Kunnamangalam,Kunnamangalam,Peringalam,11.3056,75.8634,8,Residential,0.6,33,14,1.8,9,0.5,1.0,310000
+P015,Kunnamangalam,Kunnamangalam,Chathamangalam,11.2912,75.8901,6,Residential,0.4,32,13,1.5,8,0.3,0.7,360000
+P016,Elathur,Kozhikode,Elathur,11.3132,75.7634,10,Residential,0.9,27,9,2.0,7,0.6,1.1,280000
+P017,Feroke,Feroke,Feroke,11.1798,75.8405,7,Commercial,0.5,20,6,1.2,5,0.3,0.6,420000
+P018,Ramanattukara,Feroke,Ramanattukara,11.1793,75.8652,9,Residential,0.8,18,7,1.5,6,0.4,0.9,340000
+P019,Beypore,Feroke,Beypore,11.1714,75.8076,12,Residential,1.0,16,8,2.0,7,0.7,1.2,300000
+P020,Kakkur,Balussery,Kakkur,11.4621,75.7923,18,Agricultural,3.0,44,28,5.5,18,2.5,3.8,120000
