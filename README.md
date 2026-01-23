@@ -1,4 +1,4 @@
-## Welcome to My Public Portfolio Repository 👋
+## Welcome to My Public Portfolio Repository 
 
 # About Me
 
