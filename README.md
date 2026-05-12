@@ -25,7 +25,7 @@ Foster Collaboration: Encourage discussions and improvements
 
 Name: Irshad Ali S.M.
 
-Role: Data Consultant / AI Specialist
+Role: Senior Data Analytics - Technical Lead / AI Specialist
 
 Email: aliirsha@gmail.com
 
